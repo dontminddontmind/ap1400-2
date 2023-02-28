@@ -1,0 +1,3 @@
+/mnt/c/Users/52920/OneDrive/work/c++/ap1400-2/hw1/build/CMakeFiles/main.dir
+/mnt/c/Users/52920/OneDrive/work/c++/ap1400-2/hw1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/52920/OneDrive/work/c++/ap1400-2/hw1/build/CMakeFiles/rebuild_cache.dir
